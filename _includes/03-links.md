@@ -1,1 +1,1 @@
-[my website information] (https://github.com/manuelaptech)
+[text](https://example.com)
