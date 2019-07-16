@@ -1,1 +1,6 @@
-Replace this with a list of your favorite things.
+<ol>
+  <li> NCT </li>
+    <li> AB6IX </li>
+    <li> The BOYZ </li>
+    <li> Stray Kids </li>
+  </ol>
