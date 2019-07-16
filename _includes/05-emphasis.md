@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+**So far early into this school year I have done quite a lot**
+_some things were difficult but I managed to **perservere** and overcome them all_
